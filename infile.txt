@@ -1,0 +1,7 @@
+include
+infile.txt
+Makefile
+obj
+out
+pipex
+src
