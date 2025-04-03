@@ -1,7 +1,5 @@
-include
-infile.txt
-Makefile
-obj
-out
-pipex
-src
+And
+And
+And
+And
+salut comment ca va

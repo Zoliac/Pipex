@@ -6,21 +6,21 @@
 /*   By: lpatin <lpatin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/31 20:32:50 by lpatin            #+#    #+#             */
-/*   Updated: 2025/04/02 00:03:24 by lpatin           ###   ########.fr       */
+/*   Updated: 2025/04/03 03:28:45 by lpatin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
 
-# include <sys/types.h>
-# include <unistd.h>
-# include <fcntl.h>
-# include <stdio.h>
-# include <stdlib.h>
-# include <string.h>
-# include <errno.h>
-# include <sys/wait.h>
-# include "../src/libft/includes/libft.h"
+#include <sys/types.h>
+#include <unistd.h>
+#include <fcntl.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <sys/wait.h>
+#include "../src/libft/includes/libft.h"
 
 typedef struct s_pipex
 {
